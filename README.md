@@ -12,7 +12,7 @@ Mahasiswa mampu menerapkan:
 
 ---
 
-## 🧩 1. LOGIN PAGE
+## 🧩 1. LOGIN PAGE (40%)
 
 ### Ketentuan:
 - Proses login menggunakan JavaScript dengan penerapan konsep DOM dan validasi dengan menggunakan PHP.
@@ -26,7 +26,7 @@ Mahasiswa mampu menerapkan:
 
 ---
 
-## 🏠 2. HOMEPAGE
+## 🏠 2. HOMEPAGE (30%)
 
 ### Ketentuan:
 - Setelah login berhasil, tampilkan halaman utama (**Homepage**).
@@ -37,22 +37,23 @@ Mahasiswa mampu menerapkan:
 
 ---
 
-## 🧾 3. CREATE / UPLOAD PRODUCT
+## 🧾 3. CREATE / UPLOAD PRODUCT (30%)
 
 ### Ketentuan:
 - Sediakan form untuk menambah (create) atau mengunggah produk baru.
 - Setiap produk baru yang berhasil ditambahkan harus langsung muncul di daftar produk yang telah dirender.
-- Proses penambahan produk dilakukan dengan manipulasi DOM (tanpa reload halaman).
 - Minimal field yang disediakan:
   - Nama produk
   - Harga produk
-- Desain tampilan form bebas, tetapi harus fungsional dan mengikuti kaidah dasar form HTML.
+  - Deskripsi
+  - Foto Produk
+- Desain tampilan form bebas, semakin menarik, semakin oke.
 
 ---
 
 ## 📌 Catatan
-- Semua proses validasi dan manipulasi data **harus menggunakan JavaScript DOM**, bukan alert atau prompt bawaan browser.
-- Gunakan **array** sebagai sumber data utama untuk user dan produk.
+- Proses validasi dan manipulasi data **harus menggunakan JavaScript DOM**, bukan alert atau prompt bawaan browser.
+- Gunakan **array** yang udah disedain sebagai sumber data utama untuk user dan produk.
 - Penilaian mencakup:
   - Validasi form login
   - Manipulasi DOM
@@ -66,5 +67,8 @@ Mahasiswa mampu menerapkan:
 - File HTML, CSS, dan JS yang terhubung dengan baik.
 - Login berhasil mengarahkan ke halaman utama dengan daftar produk yang dirender dari array.
 - Form create/upload dapat menambah produk baru secara dinamis ke daftar produk.
+
+## 🔥 Demo Sistem
+Demo sistem dapat dilihat melalui https://izra.me/Preview-Sistem-UTP
 
 ---
