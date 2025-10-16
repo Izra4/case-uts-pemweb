@@ -68,7 +68,14 @@ Mahasiswa mampu menerapkan:
 - Login berhasil mengarahkan ke halaman utama dengan daftar produk yang dirender dari array.
 - Form create/upload dapat menambah produk baru secara dinamis ke daftar produk.
 
+---
+
 ## 🔥 Demo Sistem
 Demo sistem dapat dilihat melalui https://izra.me/Preview-Sistem-UTP
+
+---
+
+#### Goodluck Guys
+![](dance.gif)
 
 ---
